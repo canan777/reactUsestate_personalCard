@@ -19,7 +19,7 @@
 📌REACT
 
 
-# reactUsestate_personalCard
+## reactUsestate_personalCard
 
 <img src="./public/reactUsestate_personalCard.gif"/>
 
@@ -93,4 +93,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# reactUsestate_personalCard
+
