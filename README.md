@@ -1,4 +1,29 @@
-# Getting Started with Create React App
+# reactUsestate_personalCard
+
+## home page
+
+✅useState_ReactApp✅
+
+⏩The project is a simple user interface application that implements multiple and conditional rendering using React. 
+
+✨The project displays cards representing different users and provides details for each user. Each card contains attributes such as first name, last name, email, gender and photo for the user. 
+🗂User Login: Increases the number of active users by adding a new user to the application. 
+🗂Admin Login: Displays the number of active users with the Admin option. 
+🗂Register: Can be used to add a new user. Registration can be done by entering name and surname. 
+🗂Active User Count: Shows the number of application user cards. 
+
+## 🛠technologies used :
+📌HTML
+📌CSS
+📌JS
+📌REACT
+
+
+# reactUsestate_personalCard
+
+<img src="./public/reactUsestate_personalCard.gif"/>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
