@@ -1,0 +1,17 @@
+.card{
+    background-color: orangered;
+    color: white;
+    margin: 15px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card img{
+    width: 75px;
+    height: 75px;
+}

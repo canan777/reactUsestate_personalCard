@@ -1,0 +1,47 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 15px 25px;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  
+  .header-logo{
+      font-size: 40px;
+      font-weight: 700;
+  }
+  
+  .navbar{
+      display: flex;
+      gap: 20px;
+  
+  }
+  
+  .navbar a{
+      text-decoration: none;
+      color: white;
+      font-weight: 800;
+  }
+  
+  .header-right{
+      display: flex;
+      gap: 15px;
+      background-color: gray;
+      padding: 15px;
+      border-radius: 10px;
+      align-items: center;
+  }
+
+  .infoBox{
+    background-color: yellowgreen;
+    padding: 5px;
+    border-radius: 5px;
+    color:chocolate;
+    font-weight: 800;
+    font-size: 20px;
+
+  }
